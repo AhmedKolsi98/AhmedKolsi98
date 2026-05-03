@@ -1,20 +1,83 @@
 <h1 align="center">Hi 👋, I'm Ahmed Kolsi</h1>
-<h3 align="center">A passionate full stack web developer from Tunisia</h3>
+<h3 align="center">Full-Stack Developer | DevOps Enthusiast | Building Scalable Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedkolsi98&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkolsi98" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkolsi98" alt="ahmedkolsi98" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-kolsi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-kolsi/" height="30" width="40" /></a>
+<p align="center">
+🚀 Passionate about designing performant, scalable, and production-ready applications  
+🌍 Based in Tunisia | Open to international opportunities  
+🧠 Strong focus on clean architecture, DevOps practices, and system design  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedkolsi98&show_icons=true&locale=en&layout=compact" alt="ahmedkolsi98" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedkolsi98&show_icons=true&locale=en" alt="ahmedkolsi98" /></p>
+- 💼 Former Full-Stack Developer @ Piximind (1y3m)
+- ⚙️ Experienced in building **RESTful microservices & modern web apps**
+- ☁️ Hands-on with **cloud & DevOps workflows (CI/CD, Docker, GCP)**
+- 🎯 Currently exploring **system design, scalability & product ownership**
+- 🧩 Strong believer in **clean code, automation & continuous improvement**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkolsi98&" alt="ahmedkolsi98" /></p>
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-kolsi/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-kolsi-linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+- Angular • React • TypeScript • JavaScript
+
+#### ⚙️ Backend
+- Java (Spring Boot) • Node.js
+
+#### 🗄️ Databases
+- PostgreSQL • MySQL • MongoDB • Oracle
+
+#### ☁️ DevOps & Cloud
+- Docker • Jenkins • Google Cloud Platform • Linux
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkolsi98&show_icons=true&locale=en" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkolsi98" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedkolsi98&show_icons=true&locale=en&layout=compact" alt="top langs" />
+</p>
+
+---
+
+### 🧠 What I Bring
+
+✔️ Strong full-stack foundation (frontend + backend + infra)  
+✔️ Ability to bridge **development and operations (DevOps mindset)**  
+✔️ Experience working in **Agile environments**  
+✔️ Focus on **performance, scalability, and maintainability**  
+
+---
+
+### 📌 Current Focus
+
+- 📚 Deepening knowledge in **System Design & Distributed Systems**
+- ☁️ Building production-ready apps on **GCP**
+- ⚡ Improving **CI/CD pipelines & automation workflows**
+
+---
+
+<p align="center">
+💡 “Code is not just about making things work — it's about making them last.”
+</p>
