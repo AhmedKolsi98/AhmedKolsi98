@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Ahmed%20Kolsi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Telecommunications%20Engineer%20%7C%20DevOps%20%7C%20AI%20%26%20Systems%20Integration&descAlignY=56&descSize=18" alt="banner" />
+  <img href="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Ahmed%20Kolsi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Telecommunications%20Engineer%20%7C%20DevOps%20%7C%20AI%20%26%20Systems%20Integration&descAlignY=56&descSize=18" alt="banner" />
 </p>
 
 <!-- Badges Row -->
